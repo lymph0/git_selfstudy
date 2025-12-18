@@ -1,2 +1,2 @@
 def check():
-    return 1
+    return 0
